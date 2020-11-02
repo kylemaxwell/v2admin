@@ -11,13 +11,13 @@
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon.png">
     <title>Elite Admin Template - The Ultimate Multipurpose admin template</title>
-    
+
     <!-- page css -->
     <link href="dist/css/pages/login-register-lock.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="dist/css/style.min.css" rel="stylesheet">
-    
-    
+
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -29,13 +29,13 @@
 <body class="skin-default card-no-border">
     <!-- ============================================================== -->
     <!-- Preloader - style you can find in spinners.css -->
-    <!-- ============================================================== -->
+    <!-- ==============================================================
     <div class="preloader">
         <div class="loader">
             <div class="loader__figure"></div>
             <p class="loader__label">Elite admin</p>
         </div>
-    </div>
+    </div> -->
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
@@ -59,9 +59,9 @@
                                     <div class="custom-control custom-checkbox">
                                         <input type="checkbox" class="custom-control-input" id="customCheck1">
                                         <label class="custom-control-label" for="customCheck1">Remember me</label>
-                                    </div> 
+                                    </div>
                                     <div class="ml-auto">
-                                        <a href="javascript:void(0)" id="to-recover" class="text-muted"><i class="fas fa-lock m-r-5"></i> Forgot pwd?</a> 
+                                        <a href="javascript:void(0)" id="to-recover" class="text-muted"><i class="fas fa-lock m-r-5"></i> Forgot pwd?</a>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@
             </div>
         </div>
     </section>
-    
+
     <!-- ============================================================== -->
     <!-- End Wrapper -->
     <!-- ============================================================== -->
@@ -125,15 +125,15 @@
         $(function() {
             $('[data-toggle="tooltip"]').tooltip()
         });
-        // ============================================================== 
-        // Login and Recover Password 
-        // ============================================================== 
+        // ==============================================================
+        // Login and Recover Password
+        // ==============================================================
         $('#to-recover').on("click", function() {
             $("#loginform").slideUp();
             $("#recoverform").fadeIn();
         });
     </script>
-    
+
 </body>
 
 </html>

@@ -1,6 +1,6 @@
 
 <div style="display:flex;justify-content:flex-start;">
-<button style="margin-right:6px;" class="btn btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-envelope"></i></span><br> Prepress</button>
+<button style="margin-right:6px;width:100px" class="btn btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-envelope"></i></span> Prepress</button>
 <button style="margin-right:6px;" class="btn btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-envelope"></i></span><br> Call Tags</button>
 <button style="margin-right:6px;" class="btn btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-envelope"></i></span><br> Create</button>
 <button style="margin-right:6px;" class="btn btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-envelope"></i></span> Produce</button>

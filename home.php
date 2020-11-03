@@ -342,12 +342,12 @@
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
 
-                        <li> <a class="waves-effect waves-dark" href="index.php?id=categories"><i class="icon-list"></i><span class="hide-menu">Categories</span> <span class="badge badge-pill badge-cyan ml-auto">4</span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="home.php?id=categories"><i class="icon-list"></i><span class="hide-menu">Categories</span> <span class="badge badge-pill badge-cyan ml-auto">4</span></a></li>
 
-                        <li> <a class="waves-effect waves-dark" href="index.php?id=products"><i class="ti-shopping-cart"></i><span class="hide-menu">Products</span> <span class="badge badge-pill badge-cyan ml-auto">24</span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="home.php?id=products"><i class="ti-shopping-cart"></i><span class="hide-menu">Products</span> <span class="badge badge-pill badge-cyan ml-auto">24</span></a></li>
 
-                        <li> <a class="waves-effect waves-dark" href="index.php?id=options" aria-expanded="false"><i class="ti-settings"></i><span class="hide-menu">Options</span></a>
-                        <li> <a class="waves-effect waves-dark" href="index.php?id=vieworders" aria-expanded="false"><i class="ti-settings"></i><span class="hide-menu">Orders</span></a>
+                        <li> <a class="waves-effect waves-dark" href="home.php?id=options" aria-expanded="false"><i class="ti-settings"></i><span class="hide-menu">Options</span></a>
+                        <li> <a class="waves-effect waves-dark" href="home.php?id=vieworders" aria-expanded="false"><i class="ti-settings"></i><span class="hide-menu">Orders</span></a>
 
                         </li>
 

@@ -3,7 +3,6 @@
     <div class="scroll-sidebar">
         <!-- Sidebar navigation-->
         <nav class="sidebar-nav">
-          <label>Child: <select><option>DTP</option></select></label>
             <ul id="sidebarnav">
 
               <li> <a class="waves-effect waves-dark" href="home.php?id=orders"><i class="icon-list"></i><span class="hide-menu">Orders</span> <span class="badge badge-pill badge-cyan ml-auto">4</span></a></li>

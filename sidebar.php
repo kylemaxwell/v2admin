@@ -10,7 +10,7 @@
               <li> <a class="waves-effect waves-dark" href="home.php?id=admin"><i class="icon-list"></i><span class="hide-menu">Admin</span> </a></li>
               <li> <a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class=" ti-layers-alt"></i><span class="hide-menu">Reports</span></a>
                   <ul aria-expanded="false" class="collapse">
-                    <li><a href="index.php?id=reports"> View Option Groups </a></li>
+                    <li><a href="index.php?id=reports"> Sales Report </a></li>
                   </ul>
               </li>
 

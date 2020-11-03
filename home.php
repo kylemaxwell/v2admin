@@ -1,5 +1,3 @@
-<?php include_once  $_SERVER['DOCUMENT_ROOT'].'/connection.php'; ?>
-
 <?php include "head.php"; ?>
 
 <body class="skin-blue fixed-layout">

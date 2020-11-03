@@ -3,10 +3,16 @@
     <div class="scroll-sidebar">
         <!-- Sidebar navigation-->
         <nav class="sidebar-nav">
+          <label>Child: <select><option>DTP</option></select></label>
             <ul id="sidebarnav">
 
               <li> <a class="waves-effect waves-dark" href="home.php?id=orders"><i class="icon-list"></i><span class="hide-menu">Orders</span> <span class="badge badge-pill badge-cyan ml-auto">4</span></a></li>
               <li> <a class="waves-effect waves-dark" href="home.php?id=admin"><i class="icon-list"></i><span class="hide-menu">Admin</span> </a></li>
+              <li> <a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class=" ti-layers-alt"></i><span class="hide-menu">Reports</span></a>
+                  <ul aria-expanded="false" class="collapse">
+                    <li><a href="index.php?id=reports"> View Option Groups </a></li>
+                  </ul>
+              </li>
 
                 <li> <a class="waves-effect waves-dark" href="home.php?id=categories"><i class="icon-list"></i><span class="hide-menu">Categories</span> <span class="badge badge-pill badge-cyan ml-auto">4</span></a></li>
 

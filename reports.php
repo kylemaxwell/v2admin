@@ -1,4 +1,4 @@
-reports v1.4
+reports v1.5
 <br><br>
 <div style="width:100%">
 
@@ -33,14 +33,49 @@ reports v1.4
   <thead>
     <tr>
       <th>
-
+Order #
+      </th>
+      <th>
+Client
+      </th>
+      <th>
+Sales Tax
       </th>
     </tr>
   <thead>
   <tbody>
     <tr>
       <td>
-      </th>
-    </td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+      <td>
+        3
+      </td>
+    </tr>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+      <td>
+        3
+      </td>
+    </tr>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+      <td>
+        3
+      </td>
+    </tr>
   </tbody>
 </table>

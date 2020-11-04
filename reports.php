@@ -33,10 +33,13 @@ reports v1.6
 <div><input type="checkbox" id="commission" name="commission" value="commission"><label style="padding-left:5px" for="commission"> Commission</label></div>
 <div><input type="checkbox" id="netprofit" name="netprofit" value="netprofit"><label style="padding-left:5px" for="netprofit"> Net Profit</label></div>
 <div><input type="checkbox" id="invdate" name="invdate" value="invdate"><label style="padding-left:5px" for="invdate"> Invoice Date</label></div>
-<div><input type="checkbox" id="cost" name="newclients" value="newclients"><label style="padding-left:5px" for="newclients"> New Clients Only</label></div>
-<div><input type="checkbox" id="cost" name="shipping" value="shipping"><label style="padding-left:5px" for="shipping"> Shipping</label></div>
+<div><input type="checkbox" id="newclients" name="newclients" value="newclients"><label style="padding-left:5px" for="newclients"> New Clients Only</label></div>
+<div><input type="checkbox" id="shipping" name="shipping" value="shipping"><label style="padding-left:5px" for="shipping"> Shipping</label></div>
 <div><input type="checkbox" id="jentries" name="jentries" value="jentries"><label style="padding-left:5px" for="cost"> Journal Entries</label></div>
 <div><input type="checkbox" id="newar" name="newar" value="newar"><label style="padding-left:5px" for="newar"> New A/R Charges</label></div>
+<div><input type="checkbox" id="handling" name="handling" value="handling"><label style="padding-left:5px" for="handling"> Handling</label></div>
+<div><input type="checkbox" id="taxable" name="taxable" value="taxable"><label style="padding-left:5px" for="taxable"> Taxable Sales</label></div>
+<div><input type="checkbox" id="taxon" name="taxon" value="taxon"><label style="padding-left:5px" for="taxon"> Tax On Sales</label></div>
 <br><br>
 </div>
 </form>

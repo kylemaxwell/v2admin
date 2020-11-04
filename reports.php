@@ -1,5 +1,5 @@
-reports v1.1
-
+reports v1.2
+<br><br>
 <div style="width:100%">
 
 <label for="start">Start Date:</label>
@@ -18,7 +18,7 @@ reports v1.1
 <button class="btn btn-sm btn-success">Save Script</button>
 
 </div>
-
+<br><br>
 <table style="width:100%" class="table table-condensed table-bordered table-striped">
   <thead>
     <tr>

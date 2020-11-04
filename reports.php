@@ -29,6 +29,7 @@ reports v1.6
 <div><input type="checkbox" id="client" name="client" value="client"><label for="client"> Client</label></div>
 <div><input type="checkbox" id="salestax" name="salestax" value="salestax"><label for="salestax"> Sales Tax</label></div>
 <div><input type="checkbox" id="orderdesc" name="orderdesc" value="orderdesc"><label for="orderdesc"> Order Description</label></div>
+<div><input type="checkbox" id="cost" name="cost" value="cost"><label for="cost"> Cost</label></div>
 <br><br>
 </div>
 </form>

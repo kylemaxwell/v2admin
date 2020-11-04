@@ -19,6 +19,8 @@ reports v1.2
 
 </div>
 <br><br>
+  <lable><input type="checkbox" id="orderid" name="orderid" value="orderid">Order #<label>
+<br><br>
 <table style="width:100%" class="table table-condensed table-bordered table-striped">
   <thead>
     <tr>

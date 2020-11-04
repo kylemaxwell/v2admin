@@ -8,7 +8,7 @@
         value="2020-07-22"
         min="2018-01-01" max="2020-12-31">
 
-<button class="btn btn-info">Run</button>
-<button class="btn btn-info">Schedule</button>
-<button class="btn btn-info">Create PDF</button>
-<button class="btn btn-info">Save Script</button>
+<button class="btn btn-sm btn-success">Run</button>
+<button class="btn btn-sm btn-success">Schedule</button>
+<button class="btn btn-sm btn-success">Create PDF</button>
+<button class="btn btn-sm btn-success">Save Script</button>

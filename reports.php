@@ -33,6 +33,7 @@ reports v1.6
 <div><input type="checkbox" id="commission" name="commission" value="commission"><label style="padding-left:5px" for="commission"> Commission</label></div>
 <div><input type="checkbox" id="netprofit" name="netprofit" value="netprofit"><label style="padding-left:5px" for="netprofit"> Net Profit</label></div>
 <div><input type="checkbox" id="invdate" name="invdate" value="invdate"><label style="padding-left:5px" for="invdate"> Invoice Date</label></div>
+<div><input type="checkbox" id="cost" name="newclients" value="newclients"><label style="padding-left:5px" for="newclients"> New Clients Only</label></div>
 <br><br>
 </div>
 </form>

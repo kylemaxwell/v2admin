@@ -1,4 +1,4 @@
-reports v1.2
+reports v1.3
 <br><br>
 <div style="width:100%">
 
@@ -19,7 +19,9 @@ reports v1.2
 
 </div>
 <br><br>
-  <lable><input type="checkbox" id="orderid" name="orderid" value="orderid">Order #<label>
+  <lable><input type="checkbox" id="orderid" name="orderid" value="orderid"></input> Order #<label>
+  <lable><input type="checkbox" id="salestax" name="salestax" value="salestax"></input> Sales Tax<label>
+  <lable><input type="checkbox" id="client" name="client" value="client"></input> Client<label>    
 <br><br>
 <table style="width:100%" class="table table-condensed table-bordered table-striped">
   <thead>

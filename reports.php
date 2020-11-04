@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content:flex-start;">
+<div style="display:flex;">
 
 <label for="start">Start Date:</label>
 

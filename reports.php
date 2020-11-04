@@ -19,9 +19,15 @@ reports v1.3
 
 </div>
 <br><br>
-  <lable><input type="checkbox" id="orderid" name="orderid" value="orderid"></input> Order #<label>
-  <lable><input type="checkbox" id="salestax" name="salestax" value="salestax"></input> Sales Tax<label>
-  <lable><input type="checkbox" id="client" name="client" value="client"></input> Client<label>    
+<form action="/action_page.php">
+<input type="checkbox" id="order#" name="order#" value="order#">
+<label for="order#"> Order #</label><br>
+<input type="checkbox" id="client" name="client" value="client">
+<label for="client"> Client</label><br>
+<input type="checkbox" id="salestax" name="salestax" value="salestax">
+<label for="salestax"> Sales Tax</label><br><br>
+<input type="submit" value="Submit">
+</form>
 <br><br>
 <table style="width:100%" class="table table-condensed table-bordered table-striped">
   <thead>

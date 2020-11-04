@@ -18,3 +18,18 @@ reports v1.0
 <button style="align-self:flex-end" class="btn btn-sm btn-success">Save Script</button>
 
 </div>
+
+<table style="width:100%" class="table table-condensed table-bordered table-striped">
+  <thead>
+    <tr>
+      <th>
+      </th>
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td>
+      </th>
+    </td>
+  </tbody>
+</table>

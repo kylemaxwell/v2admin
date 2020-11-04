@@ -34,6 +34,8 @@ reports v1.6
 <div><input type="checkbox" id="netprofit" name="netprofit" value="netprofit"><label style="padding-left:5px" for="netprofit"> Net Profit</label></div>
 <div><input type="checkbox" id="invdate" name="invdate" value="invdate"><label style="padding-left:5px" for="invdate"> Invoice Date</label></div>
 <div><input type="checkbox" id="cost" name="newclients" value="newclients"><label style="padding-left:5px" for="newclients"> New Clients Only</label></div>
+<div><input type="checkbox" id="cost" name="shipping" value="shipping"><label style="padding-left:5px" for="shipping"> Shipping</label></div>
+<div><input type="checkbox" id="jentries" name="jentries" value="jentries"><label style="padding-left:5px" for="cost"> Journal Entries</label></div>
 <br><br>
 </div>
 </form>

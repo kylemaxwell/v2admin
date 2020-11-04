@@ -10,7 +10,7 @@
         value="2020-07-22"
         min="2018-01-01" max="2020-12-31">
 
-<button style="align-self:flex-end" class="btn btn-sm btn-success">Run</button>
+<div type="button" style="align-self:flex-end" class="btn btn-sm btn-success">Run</div>
 <button style="align-self:flex-end" class="btn btn-sm btn-success">Schedule</button>
 <button style="align-self:flex-end" class="btn btn-sm btn-success">Create PDF</button>
 <button style="align-self:flex-end" class="btn btn-sm btn-success">Save Script</button>

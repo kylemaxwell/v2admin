@@ -314,10 +314,10 @@
                 <!-- Bread crumb and right sidebar toggle -->
                 <!-- ============================================================== -->
                 <div class="row page-titles">
-                    <div class="col-md-7 align-self-center">
+                    <div class="col-md-9 align-self-center">
                         <?php include "buttonmenu.php"; ?>
                     </div>
-                    <div class="col-md-5 align-self-center text-right">
+                    <div class="col-md-3 align-self-center text-right">
                         <div class="d-flex justify-content-end align-items-center">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>

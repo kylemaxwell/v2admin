@@ -36,6 +36,7 @@ reports v1.6
 <div><input type="checkbox" id="cost" name="newclients" value="newclients"><label style="padding-left:5px" for="newclients"> New Clients Only</label></div>
 <div><input type="checkbox" id="cost" name="shipping" value="shipping"><label style="padding-left:5px" for="shipping"> Shipping</label></div>
 <div><input type="checkbox" id="jentries" name="jentries" value="jentries"><label style="padding-left:5px" for="cost"> Journal Entries</label></div>
+<div><input type="checkbox" id="newar" name="newar" value="newar"><label style="padding-left:5px" for="newar"> New A/R Charges</label></div>
 <br><br>
 </div>
 </form>

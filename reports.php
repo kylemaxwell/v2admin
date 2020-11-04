@@ -40,6 +40,8 @@ reports v1.6
 <div><input type="checkbox" id="handling" name="handling" value="handling"><label style="padding-left:5px" for="handling"> Handling</label></div>
 <div><input type="checkbox" id="taxable" name="taxable" value="taxable"><label style="padding-left:5px" for="taxable"> Taxable Sales</label></div>
 <div><input type="checkbox" id="taxon" name="taxon" value="taxon"><label style="padding-left:5px" for="taxon"> Tax On Sales</label></div>
+<div><input type="checkbox" id="notax" name="notax" value="notax"><label style="padding-left:5px" for="notax"> Non Tax Sales</label></div>
+<div><input type="checkbox" id="deposits" name="deposits" value="deposits"><label style="padding-left:5px" for="deposits"> Deposits</label></div>
 <br><br>
 </div>
 </form>

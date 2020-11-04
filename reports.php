@@ -26,10 +26,9 @@ reports v1.6
 <label for="client"> Client</label><br>
 <input type="checkbox" id="salestax" name="salestax" value="salestax">
 <label for="salestax"> Sales Tax</label><br><br>
-<input type="submit" value="Submit">
 </form>
 <br><br>
-<table id="#example" style="width:100%" class="table display no-wrap table-hover color-bordered-table info-bordered-table table-condensed table-bordered table-striped">
+<table id="#example" style="width:100%" class="table display no-wrap table-hover table-condensed table-bordered table-striped">
   <thead>
     <tr>
       <th>

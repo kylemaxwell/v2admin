@@ -24,7 +24,7 @@ reports v1.6
 
 
 <form action="/action_page.php">
-<div style="display:flex;justify-content:flex-start;">
+<div style="display:flex;justify-content:space-between;">
 <div><input type="checkbox" id="order#" name="order#" value="order#"><label for="order#"> Order #</label></div>
 <div><input type="checkbox" id="client" name="client" value="client"><label for="client"> Client</label></div>
 <div><input type="checkbox" id="salestax" name="salestax" value="salestax"><label for="salestax"> Sales Tax</label></div>

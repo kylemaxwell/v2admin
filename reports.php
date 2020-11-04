@@ -30,6 +30,7 @@ reports v1.6
 <div><input type="checkbox" id="salestax" name="salestax" value="salestax"><label style="padding-left:5px" for="salestax"> Sales Tax</label></div>
 <div><input type="checkbox" id="orderdesc" name="orderdesc" value="orderdesc"><label style="padding-left:5px" for="orderdesc"> Order Description</label></div>
 <div><input type="checkbox" id="cost" name="cost" value="cost"><label style="padding-left:5px" for="cost"> Cost</label></div>
+<div><input type="checkbox" id="commission" name="commission" value="commission"><label style="padding-left:5px" for="commission"> Commission</label></div>
 <br><br>
 </div>
 </form>

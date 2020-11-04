@@ -5,8 +5,8 @@
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-seedling"></i></span> Create</div>
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-hourglass-half"></i></span> Produce</div>
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-people-carry"></i></span> Finish</div>
-<div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far ti-pin-alt"></i></span> Fabricate</div>
-<div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-hourglass-end"></i></span> Quality</div>
+<div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far icon-pin"></i></span> Fabricate</div>
+<div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far icon-badge"></i></span> Quality</div>
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-box"></i></span> Fullfill</div>
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far icon-wrench"></i></span> Install</div>
 <div style="margin-right:6px;" class="btn btn-sm btn-info waves-effect waves-light" type="button"><span class="btn-label"><i class="far fa-eye"></i></span> Overview</div>

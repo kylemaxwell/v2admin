@@ -29,7 +29,7 @@ reports v1.3
 <input type="submit" value="Submit">
 </form>
 <br><br>
-<table style="width:100%" class="table table-condensed table-bordered table-striped">
+<table style="width:100%" class="table color-bordered-table primary-bordered-table table-condensed table-bordered table-striped">
   <thead>
     <tr>
       <th>

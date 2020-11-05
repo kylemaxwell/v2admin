@@ -79,5 +79,10 @@
     <option selected>All</option>
     <option selected>Agent List</option>
   </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Location:</label><select id="salesagent" name="salesagent" value="salesagent">
+    <option selected>All</option>
+    <option selected>Store Location List</option>
+  </select></div>
 </div>
 </form>

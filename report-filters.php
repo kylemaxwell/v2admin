@@ -132,7 +132,7 @@
 </div>
 
 <hr style="border-top:1px solid #cccccc">
-  <input style="border:1px solid #999999" type="text" class="form-control" placeholder="Search & enter">
+  <input style="border:1px solid #999999" type="text" class="form-control" placeholder="Search Report Results">
 
 
 </form>

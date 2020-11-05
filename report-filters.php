@@ -82,7 +82,7 @@
 
   <div class="colflex1"><label style="padding-right:3px" for="storeloc"> Location:</label><select id="storeloc" name="storeloc" value="storeloc">
     <option selected>All</option>
-    <option selected>Store Location List</option>
+    <option selected>Store Locations</option>
   </select></div>
 </div>
 </form>

@@ -117,7 +117,13 @@
     <option>No Recent Orders</option>
     <option>Orders This Year</option>
     <option>Orders This Half</option>
-    <option>Orders This Quarter</option>    
+    <option>Orders This Quarter</option>
+  </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commissions:</label><select id="commissions" name="commissions" value="commissions">
+    <option selected>All</option>
+    <option>Paid Only</option>
+    <option>Unpaid Only</option>
   </select></div>
 
 </div>

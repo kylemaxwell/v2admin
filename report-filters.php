@@ -74,7 +74,7 @@
 
 </div>
 
-<hr style="height:1px;color:#999999">
+<hr style="border-top:1px solid #cccccc">
 
 <div class="containflex">
   <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
@@ -128,4 +128,9 @@
   </select></div>
 
 </div>
+
+<hr style="border-top:1px solid #cccccc">
+  <input style="border:1px solid #999999" type="text" class="form-control" placeholder="Search & enter">
+
+
 </form>

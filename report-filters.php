@@ -55,7 +55,8 @@
 <div class="colflex"><input type="checkbox" id="gbu" name="gbu" value="gbu"><label style="padding-left:5px" for="gbu"> GBU</label></div>
 <div class="colflex"><input type="checkbox" id="payment" name="payment" value="payment"><label style="padding-left:5px" for="po"> Payment</label></div>
 <div class="colflex"><input type="checkbox" id="paydate" name="paydate" value="paydate"><label style="padding-left:5px" for="paydate"> Payment Date</label></div>
-<div class="colflex"><input type="checkbox" id="po" name="po" value="po"><label style="padding-left:5px" for="po"> Purchase Order #</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays the reason the Estimate wasn't awarded."><input type="checkbox" id="rna" name="rna" value="rna"><label style="padding-left:5px" for="rna"> RNA</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays the client's first order date."><input type="checkbox" id="fod" name="fod" value="fod"><label style="padding-left:5px" for="po"> First Order</label></div>
 
 
 </div>

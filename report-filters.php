@@ -12,7 +12,7 @@
 
   .filternote {
     font-size:12px;
-    padding:3px;
+    padding:1px 3px 1px 5px;
     border:1px solid red;
     color:red;
   }
@@ -20,7 +20,7 @@
 
 <form action="/action_page.php">
 
-<div class="filternote"><i style="font-weight:bolder"  class="far icon-pin"></i>Please note that every item checked increases the time needed to calculate the report.</div>
+<div class="filternote"><i style="font-weight:bolder"  class="far icon-pin"></i> Please note that every item checked increases the time needed to calculate the report.</div>
 <br>
 <div class="containflex">
 

@@ -1,4 +1,4 @@
-reports v1.2
+reports v1.2a
 <br><br>
 <form action="" method="post">
 <div style="width:100%">

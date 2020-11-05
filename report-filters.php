@@ -77,7 +77,7 @@
 <hr style="height:1px;color:#999999">
 
 <div class="containflex">
-  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Agent:</label><select style="width:100%" id="salesagent" name="salesagent" value="salesagent">
+  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
     <option selected>All</option>
     <option>Agent List</option>
   </select></div>

@@ -6,6 +6,7 @@
 
   .colflex1 {
     flex-basis: 250px;
+    padding:3px 0px;
   }
 
   .containflex {

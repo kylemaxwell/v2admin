@@ -53,11 +53,15 @@
 <div class="colflex"><input type="checkbox" id="clientage" name="clientage" value="clientage"><label style="padding-left:3px" for="clientage"> Client Age</label></div>
 <div class="colflex"><input type="checkbox" id="clientageatoo" name="clientageatoo" value="clientageatoo"><label style="padding-left:3px" for="clientageatoo"> Client Age ATOO</label></div>
 <div class="colflex"><input type="checkbox" id="gbu" name="gbu" value="gbu"><label style="padding-left:3px" for="gbu"> GBU</label></div>
-<div class="colflex"><input type="checkbox" id="payment" name="payment" value="payment"><label style="padding-left:3px" for="po"> Payment</label></div>
+<div class="colflex"><input type="checkbox" id="payment" name="payment" value="payment"><label style="padding-left:3px" for="payment"> Payment</label></div>
 <div class="colflex"><input type="checkbox" id="paydate" name="paydate" value="paydate"><label style="padding-left:3px" for="paydate"> Payment Date</label></div>
 <div class="colflex" data-toggle="tooltip" title="Displays the reason the Estimate wasn't awarded."><input type="checkbox" id="rna" name="rna" value="rna"><label style="padding-left:3px" for="rna"> RNA</label></div>
-<div class="colflex" data-toggle="tooltip" title="Displays the client's first order date."><input type="checkbox" id="fod" name="fod" value="fod"><label style="padding-left:3px" for="po"> First Order</label></div>
-<div class="colflex" data-toggle="tooltip" title="Displays the client's last order date."><input type="checkbox" id="lod" name="fod" value="lod"><label style="padding-left:3px" for="po"> Last Order</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's first order date."><input type="checkbox" id="fod" name="fod" value="fod"><label style="padding-left:3px" for="fod"> First Order</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's last order date."><input type="checkbox" id="lod" name="fod" value="lod"><label style="padding-left:3px" for="lod"> Last Order</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's phone number."><input type="checkbox" id="phone" name="phone" value="phone"><label style="padding-left:3px" for="phone"> Phone</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's primary contact."><input type="checkbox" id="contact" name="contact" value="contact"><label style="padding-left:3px" for="contact"> Contact</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's email address."><input type="checkbox" id="email" name="email" value="email"><label style="padding-left:3px" for="email"> Email</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays the client's street address."><input type="checkbox" id="address" name="address" value="address"><label style="padding-left:3px" for="address"> Address</label></div>
 
 
 </div>

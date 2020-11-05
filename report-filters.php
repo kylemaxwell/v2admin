@@ -113,7 +113,7 @@
     <option>Not Awarded</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Client Activity:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
+  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Activity:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
     <option selected>All</option>
     <option>Recent Orders</option>
     <option>No Recent Orders</option>

@@ -1,6 +1,6 @@
 <style>
   .colflex {
-    flex-basis: 50px;
+    flex-basis: 150px;
     border:1px solid red;
   }
 </style>

@@ -73,42 +73,51 @@
 <div class="colflex" data-toggle="tooltip" title="Displays client's city and state."><input type="checkbox" id="citystate" name="citystate" value="citystate"><label style="padding-left:3px" for="citystate"> City/State</label></div>
 
 </div>
-<hr>
+<hr style="height:1px;color:#999999">
 <div class="containflex">
   <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
     <option selected>All</option>
-    <option selected>Agent List</option>
+    <option>Agent List</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="storeloc"> Location:</label><select id="storeloc" name="storeloc" value="storeloc">
     <option selected>All</option>
-    <option selected>Store Locations</option>
+    <option >Store Locations</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Pay Status:</label><select id="paystatus" name="paystatus" value="paystatus">
     <option selected>All</option>
-    <option selected>Paid</option>
-    <option selected>Unpaid</option>
-    <option selected>Partial</option>
+    <option>Paid</option>
+    <option>Unpaid</option>
+    <option>Partial</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="clientfilter"> Clients:</label><select id="clientfilter" name="clientfilter" value="clientfilter">
     <option selected>All</option>
-    <option selected>Active</option>
-    <option selected>Inactive</option>
+    <option>Active</option>
+    <option>Inactive</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="ordertype"> Order Type:</label><select id="ordertype" name="ordertype" value="ordertype">
     <option selected>All</option>
-    <option selected>Estimates</option>
-    <option selected>Invoices</option>
-    <option selected>Recent</option>
+    <option>Estimates</option>
+    <option>Invoices</option>
+    <option>Recent</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Awarded:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
     <option selected>All</option>
-    <option selected>Awarded</option>
-    <option selected>Not Awarded</option>
+    <option>Awarded</option>
+    <option>Not Awarded</option>
+  </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Client Activity:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
+    <option selected>All</option>
+    <option>Recent Orders</option>
+    <option>No Recent Orders</option>
+    <option>Orders This Year</option>
+    <option>Orders This Half</option>
+    <option>Orders This Quarter</option>    
   </select></div>
 
 </div>

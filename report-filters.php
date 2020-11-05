@@ -61,7 +61,8 @@
 <div class="colflex" data-toggle="tooltip" title="Displays client's phone number."><input type="checkbox" id="phone" name="phone" value="phone"><label style="padding-left:3px" for="phone"> Phone</label></div>
 <div class="colflex" data-toggle="tooltip" title="Displays client's primary contact."><input type="checkbox" id="contact" name="contact" value="contact"><label style="padding-left:3px" for="contact"> Contact</label></div>
 <div class="colflex" data-toggle="tooltip" title="Displays client's email address."><input type="checkbox" id="email" name="email" value="email"><label style="padding-left:3px" for="email"> Email</label></div>
-<div class="colflex" data-toggle="tooltip" title="Displays the client's street address."><input type="checkbox" id="address" name="address" value="address"><label style="padding-left:3px" for="address"> Address</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's street address."><input type="checkbox" id="address" name="address" value="address"><label style="padding-left:3px" for="address"> Address</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays client's city and state."><input type="checkbox" id="citystate" name="citystate" value="citystate"><label style="padding-left:3px" for="citystate"> City/State</label></div>
 
 
 </div>

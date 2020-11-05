@@ -1,7 +1,7 @@
 <style>
   .colflex {
     flex-basis: 150px;
-    border:1px solid green;
+    border:0px solid green;
   }
 
   .containflex {
@@ -33,5 +33,9 @@ v2
 <div class="colflex"><input type="checkbox" id="taxon" name="taxon" value="taxon"><label style="padding-left:5px" for="taxon"> Tax On Sales</label></div>
 <div class="colflex"><input type="checkbox" id="notax" name="notax" value="notax"><label style="padding-left:5px" for="notax"> Non Tax Sales</label></div>
 <div class="colflex"><input type="checkbox" id="deposits" name="deposits" value="deposits"><label style="padding-left:5px" for="deposits"> Deposits</label></div>
+<div class="colflex"><input type="checkbox" id="arcurrent" name="arcurrent" value="arcurrent"><label style="padding-left:5px" for="arcurrent"> A/R Current</label></div>
+<div class="colflex"><input type="checkbox" id="ar30" name="ar30" value="ar30"><label style="padding-left:5px" for="ar30"> A/R 30+</label></div>
+<div class="colflex"><input type="checkbox" id="ar60" name="ar60" value="ar60"><label style="padding-left:5px" for="ar60"> A/R 60+</label></div>
+<div class="colflex"><input type="checkbox" id="ar90" name="ar90" value="ar90"><label style="padding-left:5px" for="ar90"> A/R 90+</label></div>
 
 </div>

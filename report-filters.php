@@ -5,8 +5,7 @@
   }
 
   .colflex1 {
-    flex-basis: 200px;
-    border:0px solid green;
+    flex-basis: 20px;
   }
 
   .containflex {

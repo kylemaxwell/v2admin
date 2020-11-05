@@ -88,7 +88,13 @@
     <option selected>All</option>
     <option selected>Paid</option>
     <option selected>Unpaid</option>
-    <option selected>Partial</option>    
+    <option selected>Partial</option>
+  </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Clients:</label><select id="clientfilter" name="clientfilter" value="clientfilter">
+    <option selected>All</option>
+    <option selected>Active</option>
+    <option selected>Inactive</option> 
   </select></div>
 
 </div>

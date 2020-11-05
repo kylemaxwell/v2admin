@@ -18,12 +18,12 @@
   }
 </style>
 
-<div class="filternote">Please note that every item checked increases the time needed to calculate the report.</div>
+<div class="filternote"><i style="font-weight:bolder"  class="far icon-pin"></i>Please note that every item checked increases the time needed to calculate the report.</div>
 <br>
 <div class="containflex">
 
 <div class="colflex"><input type="checkbox" id="order#" name="order#" value="order#"><label style="padding-left:5px" for="client"> Order #</label></div>
-<div class="colflex"><input type="checkbox" id="client" name="client" value="client"><label style="padding-left:5px" for="client"> Client</label></div>
+<div class="colflex"><input type="checkbox" id="client" name="client" value="client"><label style="padding-left:5px" for="client"> Client Name</label></div>
 <div class="colflex"><input type="checkbox" id="salestax" name="salestax" value="salestax"><label style="padding-left:5px" for="salestax"> Sales Tax</label></div>
 <div class="colflex"><input type="checkbox" id="orderdesc" name="orderdesc" value="orderdesc"><label style="padding-left:5px" for="orderdesc"> Order Description</label></div>
 <div class="colflex"><input type="checkbox" id="cost" name="cost" value="cost"><label style="padding-left:5px" for="cost"> Cost</label></div>
@@ -47,6 +47,15 @@
 <div class="colflex"><input type="checkbox" id="po" name="po" value="po"><label style="padding-left:5px" for="po"> Purchase Order #</label></div>
 <div class="colflex"><input type="checkbox" id="subtotal" name="subtotal" value="subtotal"><label style="padding-left:5px" for="subtotal"> Subtotal</label></div>
 <div class="colflex"><input type="checkbox" id="status" name="status" value="status"><label style="padding-left:5px" for="status"> Status</label></div>
+<div class="colflex"><input type="checkbox" id="invdate" name="invdate" value="invdate"><label style="padding-left:5px" for="invdate"> Inventory Date</label></div>
+<div class="colflex"><input type="checkbox" id="paydate" name="paydate" value="paydate"><label style="padding-left:5px" for="paydate"> Pay Date</label></div>
+<div class="colflex"><input type="checkbox" id="compercent" name="compercent" value="compercent"><label style="padding-left:5px" for="compercent"> Commission %</label></div>
+<div class="colflex"><input type="checkbox" id="clientage" name="clientage" value="clientage"><label style="padding-left:5px" for="clientage"> Client Age</label></div>
+<div class="colflex"><input type="checkbox" id="clientageatoo" name="clientageatoo" value="clientageatoo"><label style="padding-left:5px" for="clientageatoo"> Client Age ATOO</label></div>
+<div class="colflex"><input type="checkbox" id="gbu" name="gbu" value="gbu"><label style="padding-left:5px" for="gbu"> GBU</label></div>
+<div class="colflex"><input type="checkbox" id="payment" name="payment" value="payment"><label style="padding-left:5px" for="po"> Payment</label></div>
+<div class="colflex"><input type="checkbox" id="paydate" name="paydate" value="paydate"><label style="padding-left:5px" for="paydate"> Payment Date</label></div>
+<div class="colflex"><input type="checkbox" id="po" name="po" value="po"><label style="padding-left:5px" for="po"> Purchase Order #</label></div>
 
 
 </div>

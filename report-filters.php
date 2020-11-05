@@ -4,6 +4,11 @@
     border:0px solid green;
   }
 
+  .colflex1 {
+    flex-basis: 200px;
+    border:0px solid green;
+  }
+
   .containflex {
     display:flex;
     flex-wrap:wrap;
@@ -70,7 +75,7 @@
 </div>
 <hr>
 <div class="containflex">
-  <div class="colflex"><label style="padding-right:3px" for="salesagent"> Sales Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
+  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Sales Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
     <option selected>All</option>
     <option selected>Agent List</option>
   </select></div>

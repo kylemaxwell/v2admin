@@ -117,9 +117,8 @@
     <option selected>All</option>
     <option>Recent Orders</option>
     <option>No Recent Orders</option>
-    <option>Orders This Year</option>
-    <option>Orders This Half</option>
-    <option>Orders This Quarter</option>
+    <option>Active This Year</option>
+    <option>Active 6 Months</option>
   </select></div>
 
   <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commissions:</label><select id="commissions" name="commissions" value="commissions">

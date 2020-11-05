@@ -18,6 +18,8 @@
   }
 </style>
 
+<form action="/action_page.php">
+
 <div class="filternote"><i style="font-weight:bolder"  class="far icon-pin"></i>Please note that every item checked increases the time needed to calculate the report.</div>
 <br>
 <div class="containflex">
@@ -64,5 +66,5 @@
 <div class="colflex" data-toggle="tooltip" title="Displays client's street address."><input type="checkbox" id="address" name="address" value="address"><label style="padding-left:3px" for="address"> Address</label></div>
 <div class="colflex" data-toggle="tooltip" title="Displays client's city and state."><input type="checkbox" id="citystate" name="citystate" value="citystate"><label style="padding-left:3px" for="citystate"> City/State</label></div>
 
-
 </div>
+</form>

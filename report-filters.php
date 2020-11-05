@@ -75,7 +75,7 @@
 </div>
 <hr>
 <div class="containflex">
-  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Sales Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
+  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
     <option selected>All</option>
     <option selected>Agent List</option>
   </select></div>

@@ -68,4 +68,11 @@
 <div class="colflex" data-toggle="tooltip" title="Displays client's city and state."><input type="checkbox" id="citystate" name="citystate" value="citystate"><label style="padding-left:3px" for="citystate"> City/State</label></div>
 
 </div>
+<hr>
+<div class="containflex">
+  <div class="colflex"><label style="padding-right:3px" for="salesagent"> Sales Agent:</label><select id="salesagent" name="salesagent" value="salesagent">
+    <option selected>All</option>
+    <option selected>Agent List</option>
+  </select></div>
+</div>
 </form>

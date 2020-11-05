@@ -80,7 +80,7 @@
     <option selected>Agent List</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="salesagent"> Location:</label><select id="salesagent" name="salesagent" value="salesagent">
+  <div class="colflex1"><label style="padding-right:3px" for="storeloc"> Location:</label><select id="storeloc" name="storeloc" value="storeloc">
     <option selected>All</option>
     <option selected>Store Location List</option>
   </select></div>

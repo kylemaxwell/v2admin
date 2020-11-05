@@ -83,5 +83,13 @@
     <option selected>All</option>
     <option selected>Store Locations</option>
   </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Pay Status:</label><select id="paystatus" name="paystatus" value="paystatus">
+    <option selected>All</option>
+    <option selected>Paid</option>
+    <option selected>Unpaid</option>
+    <option selected>Partial</option>    
+  </select></div>
+
 </div>
 </form>

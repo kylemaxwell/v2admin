@@ -13,10 +13,12 @@
   .filternote {
     font-size:12px;
     padding:3px;
+    border:1px solid red;
+    color:#666666;
   }
 </style>
 
-<div class="primary-border-color filternote">Please note that every item checked increases the time needed to calculate the report.</div>
+<div class="filternote">Please note that every item checked increases the time needed to calculate the report.</div>
 <br><br>
 <div class="containflex">
 

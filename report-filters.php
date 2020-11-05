@@ -5,14 +5,18 @@
   }
 
   .containflex {
-
     display:flex;
     flex-wrap:wrap;
     justify-content:flex-start;
   }
+
+  .filternote {
+    font-size:12px;
+    padding:3px;
+  }
 </style>
 
-v2
+<div class="primary-border-color filternote">Please note that every item checked increases the time needed to calculate the report.</div>
 <br><br>
 <div class="containflex">
 
@@ -37,5 +41,6 @@ v2
 <div class="colflex"><input type="checkbox" id="ar30" name="ar30" value="ar30"><label style="padding-left:5px" for="ar30"> A/R 30+</label></div>
 <div class="colflex"><input type="checkbox" id="ar60" name="ar60" value="ar60"><label style="padding-left:5px" for="ar60"> A/R 60+</label></div>
 <div class="colflex"><input type="checkbox" id="ar90" name="ar90" value="ar90"><label style="padding-left:5px" for="ar90"> A/R 90+</label></div>
+<div class="colflex"><input type="checkbox" id="credbal" name="credbal" value="credbal"><label style="padding-left:5px" for="credbal"> Credit Balance</label></div>
 
 </div>

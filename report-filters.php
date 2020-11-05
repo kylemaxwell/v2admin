@@ -127,10 +127,10 @@
 
   <div class="colflex1"><label style="padding-right:3px" for="moneyvalue"> Value:</label><input placeholder="$0.00" style="width:70px" type="text"> to <input placeholder="$0.00" style="width:70px" type="text"></div>
 
-</div>
+
 
 <hr style="border-top:1px solid #cccccc">
-  <input style="border:1px solid #999999" type="text" class="form-control" placeholder="Search Report Results">
+  <input style="border:1px solid #999999;max-width:300px" type="text" class="form-control" placeholder="Search Report Results">
 
 
 </form>

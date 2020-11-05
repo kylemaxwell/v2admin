@@ -1,13 +1,20 @@
 <style>
   .colflex {
     flex-basis: 150px;
-    border:1px solid red;
+    border:1px solid green;
+  }
+
+  .containflex {
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-start;
   }
 </style>
 
-v1
+v2
 <br><br>
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
+<div class="containflex">
 
 <div class="colflex"><input type="checkbox" id="order#" name="order#" value="order#"> Order #</div>
 <div class="colflex"><input type="checkbox" id="client" name="client" value="client"><label style="padding-left:5px" for="client"> Client</label></div>

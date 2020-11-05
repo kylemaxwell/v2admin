@@ -15,6 +15,7 @@
     padding:1px 3px 1px 5px;
     border:1px solid red;
     color:red;
+    margin-right:auto;
   }
 </style>
 

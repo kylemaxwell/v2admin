@@ -22,7 +22,7 @@
 <br>
 <div class="containflex">
 
-<div class="colflex"><input type="checkbox" id="order#" name="order#" value="order#"><label style="padding-left:5px" for="client"> Order #</label></div>
+<div class="colflex" data-toggle="tooltip" title="Displays the Order ID number."><input type="checkbox" id="order#" name="order#" value="order#"><label style="padding-left:5px" for="client"> Order #</label></div>
 <div class="colflex"><input type="checkbox" id="client" name="client" value="client"><label style="padding-left:5px" for="client"> Client Name</label></div>
 <div class="colflex"><input type="checkbox" id="salestax" name="salestax" value="salestax"><label style="padding-left:5px" for="salestax"> Sales Tax</label></div>
 <div class="colflex"><input type="checkbox" id="orderdesc" name="orderdesc" value="orderdesc"><label style="padding-left:5px" for="orderdesc"> Order Description</label></div>

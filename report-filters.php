@@ -127,6 +127,8 @@
     <option>Unpaid Only</option>
   </select></div>
 
+  <div class="colflex1"><label style="padding-right:3px" for="moneyvalue"> Value:</label><input style="width:80px" type="text"> to <input style="width:80px" type="text"></div>
+
 </div>
 
 <hr style="border-top:1px solid #cccccc">

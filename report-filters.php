@@ -46,6 +46,7 @@
 <div class="colflex"><input type="checkbox" id="credbal" name="credbal" value="credbal"><label style="padding-left:5px" for="credbal"> Credit Balance</label></div>
 <div class="colflex"><input type="checkbox" id="po" name="po" value="po"><label style="padding-left:5px" for="po"> Purchase Order #</label></div>
 <div class="colflex"><input type="checkbox" id="subtotal" name="subtotal" value="subtotal"><label style="padding-left:5px" for="subtotal"> Subtotal</label></div>
+<div class="colflex"><input type="checkbox" id="status" name="status" value="status"><label style="padding-left:5px" for="status"> Status</label></div>
 
 
 </div>

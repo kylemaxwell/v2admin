@@ -13,8 +13,8 @@
   .filternote {
     font-size:12px;
     padding:3px;
-    border:1px solid red;
-    color:#666666;
+    border:1px solid #666666;
+    color:red;
   }
 </style>
 

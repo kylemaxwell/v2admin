@@ -42,5 +42,6 @@
 <div class="colflex"><input type="checkbox" id="ar60" name="ar60" value="ar60"><label style="padding-left:5px" for="ar60"> A/R 60+</label></div>
 <div class="colflex"><input type="checkbox" id="ar90" name="ar90" value="ar90"><label style="padding-left:5px" for="ar90"> A/R 90+</label></div>
 <div class="colflex"><input type="checkbox" id="credbal" name="credbal" value="credbal"><label style="padding-left:5px" for="credbal"> Credit Balance</label></div>
+<div class="colflex"><input type="checkbox" id="po" name="po" value="po"><label style="padding-left:5px" for="po"> Purchase Order #</label></div>
 
 </div>

@@ -5,8 +5,9 @@
   }
 </style>
 
-
-<div style="display:flex;justify-content:space-between;">
+v1
+<br><br>
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
 
 <div class="colflex"><input type="checkbox" id="order#" name="order#" value="order#"> Order #</div>
 <div class="colflex"><input type="checkbox" id="client" name="client" value="client"><label style="padding-left:5px" for="client"> Client</label></div>

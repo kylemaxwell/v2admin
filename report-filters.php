@@ -91,10 +91,23 @@
     <option selected>Partial</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Clients:</label><select id="clientfilter" name="clientfilter" value="clientfilter">
+  <div class="colflex1"><label style="padding-right:3px" for="clientfilter"> Clients:</label><select id="clientfilter" name="clientfilter" value="clientfilter">
     <option selected>All</option>
     <option selected>Active</option>
-    <option selected>Inactive</option> 
+    <option selected>Inactive</option>
+  </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="ordertype"> Order Type:</label><select id="ordertype" name="ordertype" value="ordertype">
+    <option selected>All</option>
+    <option selected>Estimates</option>
+    <option selected>Invoices</option>
+    <option selected>Recent</option>
+  </select></div>
+
+  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Awarded:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
+    <option selected>All</option>
+    <option selected>Awarded</option>
+    <option selected>Not Awarded</option>
   </select></div>
 
 </div>

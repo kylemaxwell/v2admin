@@ -121,7 +121,7 @@
     <option>Active 6 Months</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commissions:</label><select style="width:130px" id="commissions" name="commissions" value="commissions">
+  <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commission:</label><select style="width:130px" id="commissions" name="commissions" value="commissions">
     <option selected>All</option>
     <option>Paid Only</option>
     <option>Unpaid Only</option>

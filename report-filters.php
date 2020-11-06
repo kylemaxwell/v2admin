@@ -131,7 +131,7 @@
 </div>
 
 <hr style="border-top:1px solid #cccccc">
-<i style="font-weight:bolder;color:black;font-size:16px"  class="fa icon-search"></i>  <input style="border:1px solid #999999;max-width:400px" type="text" class="form-control" placeholder="Search Report Results">
+<i style="font-weight:bolder;color:black;font-size:16px"  class="fa icon-magnifier"></i>  <input style="border:1px solid #999999;max-width:400px" type="text" class="form-control" placeholder="Search Report Results">
 
 
 </form>

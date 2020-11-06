@@ -1,6 +1,6 @@
 <h3>Report Builder</h3>
 <br>
-Load Script: <select><option>None</option></select>
+Load Script: <select style="width:130px"><option>None</option></select>
 <br><br>
 <form action="" method="post">
 <div style="width:100%">

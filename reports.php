@@ -27,11 +27,8 @@ reports v1.2a
 
 
 <form action="/action_page.php">
-<div style="display:flex;justify-content:space-between;">
 <?php include_once 'report-filters.php'; ?>
 
-
-</div>
 </form>
 <br><br>
 <table id="#example" style="width:100%" class="table display no-wrap table-hover table-condensed table-bordered table-striped">

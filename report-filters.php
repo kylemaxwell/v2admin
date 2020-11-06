@@ -82,38 +82,38 @@
     <option>Agent List</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="storeloc"> Location:</label><select id="storeloc" name="storeloc" value="storeloc">
+  <div class="colflex1"><label style="padding-right:3px" for="storeloc"> Location:</label><select style="width:130px" id="storeloc" name="storeloc" value="storeloc">
     <option selected>All</option>
     <option >Store Locations</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Pay Status:</label><select id="paystatus" name="paystatus" value="paystatus">
+  <div class="colflex1"><label style="padding-right:3px" for="paystatus"> Pay Status:</label><select style="width:130px" id="paystatus" name="paystatus" value="paystatus">
     <option selected>All</option>
     <option>Paid</option>
     <option>Unpaid</option>
     <option>Partial</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="clientfilter"> Clients:</label><select id="clientfilter" name="clientfilter" value="clientfilter">
+  <div class="colflex1"><label style="padding-right:3px" for="clientfilter"> Clients:</label><select style="width:130px" id="clientfilter" name="clientfilter" value="clientfilter">
     <option selected>All</option>
     <option>Active</option>
     <option>Inactive</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="ordertype"> Order Type:</label><select id="ordertype" name="ordertype" value="ordertype">
+  <div class="colflex1"><label style="padding-right:3px" for="ordertype"> Order Type:</label><select style="width:130px" id="ordertype" name="ordertype" value="ordertype">
     <option selected>All</option>
     <option>Estimates</option>
     <option>Invoices</option>
     <option>Recent</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Awarded:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
+  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Awarded:</label><select style="width:130px" id="awardstatus" name="awardstatus" value="awardstatus">
     <option selected>All</option>
     <option>Awarded</option>
     <option>Not Awarded</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Activity:</label><select id="awardstatus" name="awardstatus" value="awardstatus">
+  <div class="colflex1"><label style="padding-right:3px" for="awardstatus"> Activity:</label><select style="width:130px" id="awardstatus" name="awardstatus" value="awardstatus">
     <option selected>All</option>
     <option>Recent Orders</option>
     <option>No Recent Orders</option>
@@ -121,7 +121,7 @@
     <option>Active 6 Months</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commissions:</label><select id="commissions" name="commissions" value="commissions">
+  <div class="colflex1"><label style="padding-right:3px" for="commissions"> Commissions:</label><select style="width:130px" id="commissions" name="commissions" value="commissions">
     <option selected>All</option>
     <option>Paid Only</option>
     <option>Unpaid Only</option>

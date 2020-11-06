@@ -1,5 +1,5 @@
 <h3>Report Builder</h3>
-<br><br>
+<br>
 Load Script: <select><option>None</option></select>
 <br><br>
 <form action="" method="post">

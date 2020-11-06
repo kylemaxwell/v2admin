@@ -23,8 +23,7 @@ reports v1.2a
 
 	<input type="hidden" name="action" value="run_report">
 </form>
-<br><br>
-
+<br>
 
 <form action="/action_page.php">
 <?php include_once 'report-filters.php'; ?>

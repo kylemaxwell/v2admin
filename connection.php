@@ -22,7 +22,7 @@ if (is_null($id) || strcmp($id, "") == 0) {
 }
 @session_start();
 
-// main server config change
+// main server config changes
 
 	/* $host_server = "localhost"; */
 	$host_server = "192.168.34.88";

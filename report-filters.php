@@ -127,7 +127,7 @@
     <option>Unpaid Only</option>
   </select></div>
 
-  <div class="colflex1"><label style="padding-right:3px" for="moneyvalue"> Value:</label><input placeholder="$0.00" style="width:70px" type="text"> to <input placeholder="$0.00" style="width:70px" type="text"></div>
+  <div class="colflex1"><label style="padding-right:3px" for="moneyvalue"> From:</label><input placeholder="$0.00" style="width:70px" type="text"> to <input placeholder="$0.00" style="width:70px" type="text"></div>
 
 </div>
 

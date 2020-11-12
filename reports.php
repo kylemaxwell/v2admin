@@ -20,6 +20,7 @@ Load Script: <select style="width:130px"><option>None</option></select>
 <button class="btn btn-sm btn-success">Schedule</button>
 <button class="btn btn-sm btn-success">Create PDF</button>
 <button class="btn btn-sm btn-success">Save Script</button>
+<button class="btn btn-sm btn-success">Download CSV</button>
 
 </div>
 
